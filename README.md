@@ -2,7 +2,8 @@
 
 ## Overview
 
-Shopper is a full-stack ecommerce website designed to provide users with a simple shopping experience. It allows users to view the cart, browse products categorized into women, men, and kids sections, and provides authentication functionalities for login and signup.
+Shopper is a full-stack ecommerce website designed to provide users with a simple shopping experience. It allows users to view the cart, 
+browse products categorized into women, men, and kids sections, and provides authentication functionalities for login and signup.
 
 ## Features
 
